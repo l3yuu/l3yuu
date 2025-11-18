@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=👋+Hello!+I'm+Leumar+Biñas;🌐+Web+Developer+|+User-Centric+Design+Enthusiast" alt="Typing SVG" />
+</p>
 
-<!--
-**l3yuu/l3yuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 My Passion is to build things that make our lives easier...
 
-Here are some ideas to get you started:
+I specialize in creating and developing **user-friendly websites** that focus on intuitive design and robust functionality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 My passion is to **build things that make our lives easier** by leveraging modern web technologies to solve real-world problems.
+
+---
+
+### 💻 Tech Stack I Work With
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML, CSS, JavaScript (JS), React.js |
+| **Styling** | Tailwind CSS, Bootstrap |
+| **Backend** | PHP |
+| **Databases** | MySQL, MongoDB, PostgreSQL |
+| **BaaS/Services** | Firebase, Supabase |
+
+---
+
+### 📬 Let's Connect!
+
+* **Email:** binas.leumar1@gmail.com
+* **LinkedIn:** [www.linkedin.com/in/leumar-biñas-3277aa357](https://www.linkedin.com/in/leumar-biñas-3277aa357)
