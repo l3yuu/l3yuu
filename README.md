@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F700FF&center=true&vCenter=true&width=480&lines=👋+Hello!+I'm+Leumar+Biñas;💻+Full+Stack+Web+Developer;✨+Building+Things+That+Make+Life+Easier" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=480&lines=👋+Hello!+I'm+Leumar+Biñas;💻+Full+Stack+Web+Developer;✨+Building+Things+That+Make+Life+Easier" alt="Typing SVG" />
 </p>
 
 ## 🛠️ Developer Philosophy
