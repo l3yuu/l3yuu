@@ -16,7 +16,7 @@ I specialize in creating and developing **user-friendly websites** that focus on
 | :--- | :--- |
 | **Frontend** | 🖥️ HTML, CSS, JavaScript (JS), TypeScript (TS), React.js |
 | **Styling** | 🎨 Tailwind CSS, Bootstrap |
-| **Backend** | ⚙️ Node.js, PHP |
+| **Backend** | ⚙️ Node.js, Express.js, PHP |
 | **Databases** | 💾 MySQL, MongoDB, PostgreSQL |
 | **BaaS/Services** | ☁️ Firebase, Supabase |
 
