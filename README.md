@@ -14,26 +14,27 @@
 ---
 
 ### About Me
-I specialize in creating user-friendly applications with a focus on intuitive design and robust backend functionality. My goal is to leverage modern web technologies to solve real-world problems.
+I am a 4th-year BSIT student specializing in creating user-friendly applications with a focus on intuitive design and robust backend functionality. My goal is to leverage modern web technologies to solve real-world problems.
 
 ---
 
 ### Technical Stack
 
-**Frontend** ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+**Frontend**
+* Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
+* Frameworks/Libraries: React.js, Next.js
+* Styling: Tailwind CSS, Bootstrap
 
-**Backend** ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=nodesdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+**Backend**
+* Languages: PHP, Node.js
+* Frameworks: Laravel, Express.js
 
-**Databases & Services** ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+**Databases & Services**
+* Databases: PostgreSQL, MySQL, MongoDB
+* BaaS/Cloud: Supabase, Firebase, Vercel
+
+**Version Control & Tools**
+* Git, GitHub
 
 ---
 
