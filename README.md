@@ -13,7 +13,7 @@
 
 ---
 
-### Developer Philosophy
+### About Me
 I specialize in creating user-friendly applications with a focus on intuitive design and robust backend functionality. My goal is to leverage modern web technologies to solve real-world problems.
 
 ---
