@@ -6,4 +6,4 @@ I am a developer focused on system scalability and high-performance solutions. I
 
 ---
 
-
+**Contact:** [binas.leumar1@gmail.com](mailto:binas.leumar1@gmail.com)
