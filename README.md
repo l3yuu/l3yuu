@@ -1,4 +1,3 @@
-# Leumar Biñas
 ### Full Stack Developer | Backend Architect
 
 ---
