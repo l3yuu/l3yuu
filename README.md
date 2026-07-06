@@ -2,7 +2,7 @@
 
 ---
 
-I am a developer focused on system scalability and high-performance solutions. I specialize in architecting backends while building seamless, intuitive frontend interfaces.
+Full-stack developer focused on scalable backend architecture and clean, functional web interfaces.
 
 ---
 
